@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">semana02_android</string>
+    <string-array name="arte">
+        <item>cocina</item>
+        <item>filmadora</item>
+        <item>horno</item>
+        <item>licuadora</item>
+        <item>radio</item>
+        <item>refrigeradora</item>
+        <item>televisor</item>
+    </string-array>
+
+    <string-array name="tour">
+        <item>arequipa</item>
+        <item>cajamarca</item>
+        <item>cuzco</item>
+        <item>tumbes</item>
+    </string-array>
+</resources>
